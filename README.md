@@ -11,5 +11,5 @@ This is going to be an implentation of Euclid's Elements using Python.
 ```
 
 Very simple. All that is implented right now is the first Postulate, drawing
-a straigh line.
+a straight line.
 
