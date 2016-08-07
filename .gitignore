@@ -1,0 +1,5 @@
+# Ignore Python bytecode.
+__pycache__
+
+# Ignore swap files from Vim
+*.swp
